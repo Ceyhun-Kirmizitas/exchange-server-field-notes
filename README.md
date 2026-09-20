@@ -1,6 +1,6 @@
-# Exchange Server Lab Notes
+# Exchange Server Field Notes
 
-Microsoft Exchange Server lab notes, deep dives, troubleshooting tests and practical findings.
+Microsoft Exchange Server field notes, deep dives, troubleshooting tests and practical findings.
 
 This repository contains concise technical notes from hands-on Exchange Server lab work. Full articles, screenshots, command output, and references are published on [ceyhunkirmizitas.net](https://ceyhunkirmizitas.net/).
 
