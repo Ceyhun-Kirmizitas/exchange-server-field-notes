@@ -1,6 +1,6 @@
 # Exchange Server Field Notes
 
-Microsoft Exchange Server field notes, deep dives, troubleshooting, scripts, and practical findings.
+Microsoft Exchange Server field notes, deep dives, troubleshooting, and practical findings.
 
 This repository contains concise technical notes based on Exchange Server field experience, troubleshooting, and controlled testing. Full articles, screenshots, command output, and references are published on [ceyhunkirmizitas.net](https://ceyhunkirmizitas.net/).
 
@@ -14,7 +14,13 @@ This repository contains concise technical notes based on Exchange Server field 
 - [High Availability](high-availability/)
 - [Security and Hardening](security-hardening/)
 - [Troubleshooting](troubleshooting/)
-- [Scripts](scripts/)
+
+## Scripts
+
+Public PowerShell scripts are maintained in separate repositories:
+
+- [GetExchangeURLs-v2.ps1](https://github.com/Ceyhun-Kirmizitas/GetExchangeURLs-v2.ps1)
+- [MonitorExchangeAuthCertificate-TimeZoneAware.ps1](https://github.com/Ceyhun-Kirmizitas/MonitorExchangeAuthCertificate-TimeZoneAware.ps1)
 
 ## OWA Authentication Deep Dive
 
