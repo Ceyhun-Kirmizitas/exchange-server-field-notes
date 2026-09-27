@@ -21,6 +21,7 @@ Public PowerShell scripts are maintained in separate repositories:
 
 - [GetExchangeURLs-v2.ps1](https://github.com/Ceyhun-Kirmizitas/GetExchangeURLs-v2.ps1)
 - [MonitorExchangeAuthCertificate-TimeZoneAware.ps1](https://github.com/Ceyhun-Kirmizitas/MonitorExchangeAuthCertificate-TimeZoneAware.ps1)
+- [ExchangeReceiveConnectorManager.ps1](https://github.com/Ceyhun-Kirmizitas/ExchangeReceiveConnectorManager.ps1)
 
 ## OWA Authentication Deep Dive
 
